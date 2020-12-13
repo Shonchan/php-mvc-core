@@ -6,10 +6,10 @@
  * Time: 16:50
  */
 
-namespace App;
+namespace shonchan\phpmvc;
 
 
-use App\db\DbModel;
+use shonchan\phpmvc\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

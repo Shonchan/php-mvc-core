@@ -6,7 +6,7 @@
  * Time: 13:40
  */
 
-namespace App;
+namespace shonchan\phpmvc;
 
 use App\exception\NotFounsException;
 

@@ -6,7 +6,7 @@
  * Time: 10:33
  */
 
-namespace App;
+namespace shonchan\phpmvc;
 
 
 class Session

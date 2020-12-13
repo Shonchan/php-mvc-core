@@ -6,10 +6,10 @@
  * Time: 15:18
  */
 
-namespace App\form;
+namespace shonchan\phpmvc\form;
 
 
-use App\Model;
+use shonchan\phpmvc\Model;
 
 class InputField extends BaseField
 {

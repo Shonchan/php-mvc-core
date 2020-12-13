@@ -6,7 +6,7 @@
  * Time: 16:22
  */
 
-namespace App;
+namespace shonchan\phpmvc;
 
 
 class Response

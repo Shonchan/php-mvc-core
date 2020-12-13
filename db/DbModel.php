@@ -6,11 +6,12 @@
  * Time: 14:29
  */
 
-namespace App\db;
+namespace shonchan\phpmvc\db;
 
 
-use App\Application;
-use App\Model;
+
+use shonchan\phpmvc\Application;
+use shonchan\phpmvc\Model;
 
 abstract class DbModel extends Model
 {

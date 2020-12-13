@@ -3,9 +3,9 @@
  * User: Alex
  */
 
-namespace App;
+namespace shonchan\phpmvc;
 
-use App\db\Database;
+use shonchan\phpmvc\db\Database;
 
 /**
  * Class Application
@@ -28,6 +28,11 @@ class Application
     public static Application $app;
     public static ?Controller $controller = null;
 
+    /**
+     * Application constructor.
+     * @param $rootPath
+     * @param array $config
+     */
     public function __construct($rootPath, array $config)
     {
         $this->userClass = $config['userClass'];
@@ -54,6 +59,7 @@ class Application
     }
 
     /**
+     * @param Controller $controller
      * @return mixed
      */
     public static function getController(Controller $controller): Controller
@@ -87,6 +93,10 @@ class Application
         }
     }
 
+    /**
+     * @param UserModel $user
+     * @return bool
+     */
     public function login(UserModel $user)
     {
         $this->user = $user;

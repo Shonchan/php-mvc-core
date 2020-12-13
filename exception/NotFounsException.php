@@ -6,7 +6,7 @@
  * Time: 15:30
  */
 
-namespace App\exception;
+namespace shonchan\phpmvc\exception;
 
 
 class NotFounsException extends \Exception

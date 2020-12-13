@@ -6,7 +6,7 @@
  * Time: 14:19
  */
 
-namespace App;
+namespace shonchan\phpmvc;
 
 
 abstract class Model

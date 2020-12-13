@@ -6,7 +6,7 @@
  * Time: 16:43
  */
 
-namespace App\form;
+namespace shonchan\phpmvc\form;
 
 
 class TextAreaField extends BaseField

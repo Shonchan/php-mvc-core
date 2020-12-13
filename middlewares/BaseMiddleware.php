@@ -6,7 +6,7 @@
  * Time: 14:24
  */
 
-namespace App\middlewares;
+namespace shonchan\phpmvc\middlewares;
 
 
 abstract class BaseMiddleware

@@ -6,10 +6,10 @@
  * Time: 15:54
  */
 
-namespace App\db;
+namespace shonchan\phpmvc\db;
 
 
-use App\Application;
+use shonchan\phpmvc\Application;
 
 class Database
 {

@@ -6,11 +6,11 @@
  * Time: 14:26
  */
 
-namespace App\middlewares;
+namespace shonchan\phpmvc\middlewares;
 
 
-use App\Application;
-use App\exception\ForbiddenException;
+use shonchan\phpmvc\Application;
+use shonchan\phpmvc\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

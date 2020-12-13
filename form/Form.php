@@ -6,10 +6,10 @@
  * Time: 15:17
  */
 
-namespace App\form;
+namespace shonchan\phpmvc\form;
 
 
-use App\Model;
+use shonchan\phpmvc\Model;
 
 class Form
 {

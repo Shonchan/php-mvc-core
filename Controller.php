@@ -6,9 +6,9 @@
  * Time: 17:16
  */
 
-namespace App;
+namespace shonchan\phpmvc;
 
-use App\middlewares\BaseMiddleware;
+use shonchan\phpmvc\middlewares\BaseMiddleware;
 
 /**
  * Class Controller

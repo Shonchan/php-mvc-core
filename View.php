@@ -6,7 +6,7 @@
  * Time: 15:57
  */
 
-namespace App;
+namespace shonchan\phpmvc;
 
 
 class View

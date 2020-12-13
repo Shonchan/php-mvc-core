@@ -6,7 +6,7 @@
  * Time: 14:36
  */
 
-namespace App\exception;
+namespace shonchan\phpmvc\exception;
 
 
 class ForbiddenException extends \Exception

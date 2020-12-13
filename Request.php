@@ -6,7 +6,7 @@
  * Time: 15:13
  */
 
-namespace App;
+namespace shonchan\phpmvc;
 
 
 class Request
