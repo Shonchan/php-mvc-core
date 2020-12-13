@@ -1,0 +1,10 @@
+{
+    "name": "shonchan/php-mvc-core",
+    "authors": [
+        {
+            "name": "Aleksandr Shaforostov",
+            "email": "czero57@gmail.com"
+        }
+    ],
+    "require": {}
+}
